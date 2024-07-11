@@ -21,4 +21,4 @@ This repository contains a simple example of an MVC (Model-View-Controller) appl
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/pmanojdeveloper/smarty-mvc-php-example.git
+   git clone https://github.com/pmanojdeveloper/smarty-mvc-php-sample.git
